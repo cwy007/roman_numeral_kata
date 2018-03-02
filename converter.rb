@@ -7,6 +7,6 @@ class Converter
       n -= 5
     end
 
-    result << "I" * n 
+    result << "I" * n
   end
 end
