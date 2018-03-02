@@ -1,4 +1,5 @@
 # roman_numeral_kata
+[![Build Status](https://travis-ci.org/cwy007/roman_numeral_kata.svg?branch=master)](https://travis-ci.org/cwy007/roman_numeral_kata)
 
 ## 问题
 https://xdite.gitbooks.io/rspec-101/content/contents/pure-ruby-example/roman_numerals_kata/
